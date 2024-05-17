@@ -1,0 +1,129 @@
+Exercices de base sur la déclaration de variables
+
+    Exercice 1 : Déclarer une variable entière nommée age et affichez-là.
+    Exercice 2 : Déclarer une variable de type flottant nommée temperature et affichez-là.
+    Exercice 3 : Déclarer une variable de type double nommée distance et affichez-là.
+    Exercice 4 : Déclarer une variable de type char nommée initial et affichez-là.
+    Exercice 5 : Déclarer deux variables entières nommées a et b et affichez-là.
+    Exercice 6 : Déclarer une variable entière non signée nommée count et affichez-là.
+    Exercice 7 : Déclarer une variable de type long nommée population et affichez-là.
+    Exercice 8 : Déclarer une variable de type short nommée smallNumber et affichez-là.
+    Exercice 9 : Déclarer une variable de type long double nommée precisionValue et affichez-là.
+    Exercice 10 : Déclarer une variable de type unsigned char nommée letter et affichez-là.
+
+Exercices sur l'initialisation des variables
+
+    Exercice 11 : Déclarer et initialiser une variable entière nommée year avec la valeur 2023 et affichez-là.
+    Exercice 12 : Déclarer et initialiser une variable flottante nommée height avec la valeur 1 et affichez-là.75 et affichez-là.
+    Exercice 13 : Déclarer et initialiser une variable double nommée mass avec la valeur 70 et affichez-là.5 et affichez-là.
+    Exercice 14 : Déclarer et initialiser une variable char nommée grade avec la valeur 'A' et affichez-là.
+    Exercice 15 : Déclarer et initialiser une variable entière non signée nommée total avec la valeur 1000 et affichez-là.
+    Exercice 16 : Déclarer et initialiser une variable de type long nommée distance avec la valeur 123456789 et affichez-là.
+    Exercice 17 : Déclarer et initialiser une variable de type short nommée depth avec la valeur 200 et affichez-là.
+    Exercice 18 : Déclarer et initialiser une variable de type long double nommée bigValue avec la valeur 1 et affichez-là.23456789012345 et affichez-là.
+    Exercice 19 : Déclarer et initialiser une variable de type unsigned char nommée smallLetter avec la valeur 'c' et affichez-là.
+    Exercice 20 : Déclarer et initialiser une variable entière nommée price avec la valeur 99 et affichez-là.
+
+Exercices sur les tableaux de variables
+
+    Exercice 21 : Déclarer un tableau de 10 entiers nommé numbers et affichez-là.
+    Exercice 22 : Déclarer un tableau de 5 flottants nommé weights et affichez-là.
+    Exercice 23 : Déclarer un tableau de 3 doubles nommé distances et affichez-là.
+    Exercice 24 : Déclarer un tableau de 20 caractères nommé name et affichez-là.
+    Exercice 25 : Déclarer et initialiser un tableau de 4 entiers nommé scores avec les valeurs {10, 20, 30, 40} et affichez-là.
+    Exercice 26 : Déclarer et initialiser un tableau de 3 flottants nommé temperatures avec les valeurs {98 et affichez-là.6, 99 et affichez-là.5, 100 et affichez-là.2} et affichez-là.
+    Exercice 27 : Déclarer et initialiser un tableau de 5 caractères nommé vowels avec les valeurs {'a', 'e', 'i', 'o', 'u'} et affichez-là.
+    Exercice 28 : Déclarer un tableau de 7 entiers nommé daysOfWeek et affichez-là.
+    Exercice 29 : Déclarer un tableau de 12 doubles nommé monthlySales et affichez-là.
+    Exercice 30 : Déclarer et initialiser un tableau de 2 entiers nommés dimensions avec les valeurs {1024, 768} et affichez-là.
+
+Exercices sur les pointeurs
+
+    Exercice 31 : Déclarer un pointeur vers un entier nommé pInt et affichez-là.
+    Exercice 32 : Déclarer un pointeur vers un flottant nommé pFloat et affichez-là.
+    Exercice 33 : Déclarer un pointeur vers un double nommé pDouble et affichez-là.
+    Exercice 34 : Déclarer un pointeur vers un char nommé pChar et affichez-là.
+    Exercice 35 : Déclarer un pointeur vers un entier nommé pCount et l'initialiser à NULL et affichez-là.
+    Exercice 36 : Déclarer un pointeur vers un flottant nommé pHeight et l'initialiser à NULL et affichez-là.
+    Exercice 37 : Déclarer un pointeur vers un double nommé pMass et l'initialiser à NULL et affichez-là.
+    Exercice 38 : Déclarer un pointeur vers un char nommé pLetter et l'initialiser à NULL et affichez-là.
+    Exercice 39 : Déclarer un pointeur vers un tableau d'entiers nommé pArray et affichez-là.
+    Exercice 40 : Déclarer un pointeur vers un tableau de flottants nommé pWeights et affichez-là.
+
+Exercices sur les structures et les unions
+
+    Exercice 41 : Déclarer une structure nommée Person avec les champs name, age, et height et affichez-là.
+    Exercice 42 : Déclarer une variable de type Person nommée student et affichez-là.
+    Exercice 43 : Déclarer et initialiser une structure nommée Book avec les champs title, author, et pages et affichez-là.
+    Exercice 44 : Déclarer une union nommée Data avec les membres intValue, floatValue, et charValue et affichez-là.
+    Exercice 45 : Déclarer une variable de type Data nommée info et affichez-là.
+    Exercice 46 : Déclarer une structure nommée Car avec les champs make, model, et year et affichez-là.
+    Exercice 47 : Déclarer une variable de type Car nommée myCar et l'initialiser et affichez-là.
+    Exercice 48 : Déclarer une union nommée Measurement avec les membres weight, height, et depth et affichez-là.
+    Exercice 49 : Déclarer une variable de type Measurement nommée size et affichez-là.
+    Exercice 50 : Déclarer une structure nommée Date avec les champs day, month, et year et affichez-là.
+
+Exercices avancés
+
+    Exercice 51 : Déclarer un tableau de pointeurs vers des entiers nommé pIntArray et affichez-là.
+    Exercice 52 : Déclarer un tableau de pointeurs vers des flottants nommé pFloatArray et affichez-là.
+    Exercice 53 : Déclarer un tableau de structures Person nommé people et affichez-là.
+    Exercice 54 : Déclarer une structure nommée Employee avec les champs id, name, et salary et affichez-là.
+    Exercice 55 : Déclarer une variable de type Employee nommée manager et l'initialiser et affichez-là.
+    Exercice 56 : Déclarer une union nommée Value avec les membres intValue, doubleValue, et charValue et affichez-là.
+    Exercice 57 : Déclarer une variable de type Value nommée result et affichez-là.
+    Exercice 58 : Déclarer une structure nommée Point avec les champs x et y de type entier et affichez-là.
+    Exercice 59 : Déclarer une variable de type Point nommée origin et l'initialiser à (0,0) et affichez-là.
+    Exercice 60 : Déclarer une structure nommée Rectangle avec les champs width et height de type entier et affichez-là.
+
+Exercices sur les pointeurs et les chaînes de caractères
+
+    Exercice 61 : Déclarer un pointeur vers une chaîne de caractères nommé pStr et affichez-là.
+    Exercice 62 : Déclarer un tableau de chaînes de caractères nommé days et affichez-là.
+    Exercice 63 : Déclarer une chaîne de caractères nommée greeting et l'initialiser avec "Hello" et affichez-là.
+    Exercice 64 : Déclarer une chaîne de caractères nommée name et l'initialiser avec "John Doe" et affichez-là.
+    Exercice 65 : Déclarer un tableau de 3 chaînes de caractères nommé colors et l'initialiser avec {"Red", "Green", "Blue"} et affichez-là.
+    Exercice 66 : Déclarer un pointeur vers une chaîne de caractères nommé message et l'initialiser avec "Welcome" et affichez-là.
+    Exercice 67 : Déclarer un tableau de chaînes de caractères nommé fruits et l'initialiser avec {"Apple", "Banana", "Cherry"} et affichez-là.
+    Exercice 68 : Déclarer une chaîne de caractères nommée country et l'initialiser avec "France" et affichez-là.
+    Exercice 69 : Déclarer un pointeur vers une chaîne de caractères nommé welcomeMessage et l'initialiser avec "Good Morning" et affichez-là.
+    Exercice 70 : Déclarer un tableau de 5 chaînes de caractères nommé cities et l'initialiser avec {"Paris", "London", "New York", "Tokyo", "Sydney"} et affichez-là.
+
+Exercices sur les constantes
+
+    Exercice 71 : Déclarer une constante entière nommée MAX_USERS avec la valeur 100 et affichez-là.
+    Exercice 72 : Déclarer une constante flottante nommée PI avec la valeur 3 et affichez-là.14 et affichez-là.
+    Exercice 73 : Déclarer une constante double nommée GRAVITY avec la valeur 9 et affichez-là.81 et affichez-là.
+    Exercice 74 : Déclarer une constante char nommée NEWLINE avec la valeur '\n' et affichez-là.
+    Exercice 75 : Déclarer une constante entière non signée nommée MAX_BUFFER_SIZE avec la valeur 1024 et affichez-là.
+    Exercice 76 : Déclarer une constante de type long nommée LIGHT_SPEED avec la valeur 299792458 et affichez-là.
+    Exercice 77 : Déclarer une constante de type short nommée MIN_VALUE avec la valeur -32768 et affichez-là.
+    Exercice 78 : Déclarer une constante de type long double nommée AVOGADRO_NUMBER avec la valeur 6 et affichez-là.02214076e23 et affichez-là.
+    Exercice 79 : Déclarer une constante de type unsigned char nommée MAX_CHAR avec la valeur 255 et affichez-là.
+    Exercice 80 : Déclarer une constante entière nommée DAYS_IN_WEEK avec la valeur 7 et affichez-là.
+
+Exercices sur les énumérations
+
+    Exercice 81 : Déclarer une énumération nommée Day avec les valeurs SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY et affichez-là.
+    Exercice 82 : Déclarer une variable de type Day nommée today et affichez-là.
+    Exercice 83 : Déclarer une énumération nommée Month avec les valeurs de JANUARY à DECEMBER et affichez-là.
+    Exercice 84 : Déclarer une variable de type Month nommée currentMonth et affichez-là.
+    Exercice 85 : Déclarer une énumération nommée Season avec les valeurs SPRING, SUMMER, AUTUMN, WINTER et affichez-là.
+    Exercice 86 : Déclarer une variable de type Season nommée currentSeason et affichez-là.
+    Exercice 87 : Déclarer une énumération nommée TrafficLight avec les valeurs RED, YELLOW, GREEN et affichez-là.
+    Exercice 88 : Déclarer une variable de type TrafficLight nommée light et affichez-là.
+    Exercice 89 : Déclarer une énumération nommée Weather avec les valeurs SUNNY, CLOUDY, RAINY, SNOWY et affichez-là.
+    Exercice 90 : Déclarer une variable de type Weather nommée forecast et affichez-là.
+
+Exercices sur les typedef
+
+    Exercice 91 : Utiliser typedef pour créer un alias int32 pour le type int et affichez-là.
+    Exercice 92 : Utiliser typedef pour créer un alias float32 pour le type float et affichez-là.
+    Exercice 93 : Utiliser typedef pour créer un alias double64 pour le type double et affichez-là.
+    Exercice 94 : Utiliser typedef pour créer un alias char8 pour le type char et affichez-là.
+    Exercice 95 : Utiliser typedef pour créer un alias uint pour le type unsigned int et affichez-là.
+    Exercice 96 : Utiliser typedef pour créer un alias ushort pour le type unsigned short et affichez-là.
+    Exercice 97 : Utiliser typedef pour créer un alias uchar pour le type unsigned char et affichez-là.
+    Exercice 98 : Utiliser typedef pour créer un alias ldouble pour le type long double et affichez-là.
+    Exercice 99 : Utiliser typedef pour créer un alias ptrInt pour un pointeur vers un entier et affichez-là.
+    Exercice 100 : Utiliser typedef pour créer un alias ptrFloat pour un pointeur vers un flottant et affichez-là.
